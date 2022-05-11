@@ -1,0 +1,65 @@
+ [
+    {
+        "imagen": "../imagenes/esponja.jpg",
+        "nombre": "Esponja vegetal",
+        "caracteristicas": "pack x 2", 
+        "id": 1, 
+        "precio": 250 
+    },
+    {
+        "imagen": "../imagenes/cepillos.png",
+        "nombre": "Cepillo de dientes",
+        "caracteristicas": "de bambu",
+        "id": 2,
+        "precio": 220
+    },
+    { 
+        "imagen": "../imagenes/cepillo.jpg",
+        "nombre": "Cepillo de pelo",
+        "caracteristicas": "de bambu",
+        "id": 3,
+        "precio" : 490
+    },
+    {
+        "imagen": "../imagenes/shampoo.jpg",
+        "nombre": "Shampoo sólido",
+        "caracteristicas": "pelo mixto",
+        "id": 4,
+        "precio": 350
+    },
+    {
+        "imagen": "../imagenes/acondicionador.jpg",
+        "nombre": "Acondicionador solido",
+        "caracteristicas": "para todo tipo de pelo", 
+        "id": 5, 
+        "precio": 350 
+    },
+    {
+        "imagen": "../imagenes/balsamo.jpg",
+        "nombre": "Balsamo labial",
+        "caracteristicas": "mentolado",
+        "id": 6,
+        "precio": 270
+    },
+    { 
+        "imagen": "../imagenes/peine.jpg",
+        "nombre": "Peine de bambu",
+        "caracteristicas": "Anti frizz",
+        "id": 7,
+        "precio" : 150
+    },
+    {
+        "imagen": "../imagenes/jabon.jpg",
+        "nombre": "Jabon artesanal",
+        "caracteristicas": "Aroma lavanda",
+        "id": 8,
+        "precio": 250
+    },
+    {
+        "imagen": "../imagenes/pads.jpg",
+        "nombre": "Pads reutilizables",
+        "caracteristicas": "Reemplaza el algodon",
+        "id": 9,
+        "precio": 200
+    }
+] 
